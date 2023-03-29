@@ -10,12 +10,12 @@ Caso queira contribuir é só abrir um Pull Request. Faça um fork e preencha a 
 
 ## Conceitos Básico
 - [ ] Condicionais
-- [ ] Funções 
+- [x] Funções 
 - [ ] Estrutura de Dados
 - [ ] Pacotes
 - [ ] Tipos Primitivos
 - [ ] Exceção
-- [ ] Strings e Template Strings
+- [x] Strings e Template Strings
 ## Conceitos Importantes
 - [ ] JVM
 - [ ] Garbage Collector
